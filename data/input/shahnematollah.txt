@@ -1,0 +1,10 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/shahnematollah/ghasidesh/,shahnematollah,ghasidesh/,35
+https://ganjoor.net/shahnematollah/ghazalshv/,shahnematollah,ghazalshv/,1564
+https://ganjoor.net/shahnematollah/tarjeesh/,shahnematollah,tarjeesh/,4
+https://ganjoor.net/shahnematollah/ghetesh/,shahnematollah,ghetesh/,134
+https://ganjoor.net/shahnematollah/masnavish/,shahnematollah,masnavish/,85
+https://ganjoor.net/shahnematollah/robaeeshv/,shahnematollah,robaeeshv/,321
+https://ganjoor.net/shahnematollah/dobeytihash/,shahnematollah,dobeytihash/,270
+https://ganjoor.net/shahnematollah/motsh/,shahnematollah,motsh/,5
+https://ganjoor.net/shahnematollah/mofradatsh/,shahnematollah,mofradatsh/,283

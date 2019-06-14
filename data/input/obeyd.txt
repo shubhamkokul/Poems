@@ -1,0 +1,6 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/obeyd/divan-obeyd/,obeyd,divan-obeyd/,0
+https://ganjoor.net/obeyd/oshaghname-obeyd/,obeyd,oshaghname-obeyd/,33
+https://ganjoor.net/obeyd/moosh-gorbe/,obeyd,moosh-gorbe/,0
+https://ganjoor.net/obeyd/vazn/,obeyd,vazn/,0
+https://ganjoor.net/obeyd/saadi/,obeyd,saadi/,177

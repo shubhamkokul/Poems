@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/shahriar/gozidegh/,shahriar,gozidegh/,160
+https://ganjoor.net/shahriar/heydarbaba/,shahriar,heydarbaba/,0
+https://ganjoor.net/shahriar/heydarbaba2/,shahriar,heydarbaba2/,0
+https://ganjoor.net/shahriar/torki/,shahriar,torki/,29

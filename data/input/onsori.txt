@@ -1,0 +1,6 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/onsori/oghas/,onsori,oghas/,72
+https://ganjoor.net/onsori/oro/,onsori,oro/,77
+https://ganjoor.net/onsori/oghat/,onsori,oghat/,148
+https://ganjoor.net/onsori/omas/,onsori,omas/,0
+https://ganjoor.net/onsori/omans/,onsori,omans/,21

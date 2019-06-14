@@ -1,0 +1,6 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/ouhadi/divano/,ouhadi,divano/,0
+https://ganjoor.net/ouhadi/mantegholoshagh/,ouhadi,mantegholoshagh/,77
+https://ganjoor.net/ouhadi/jaamejam/,ouhadi,jaamejam/,131
+https://ganjoor.net/ouhadi/vazn/,ouhadi,vazn/,0
+https://ganjoor.net/ouhadi/saadi/,ouhadi,saadi/,346

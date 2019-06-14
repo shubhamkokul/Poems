@@ -1,0 +1,2 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/gilani/ghazalgi/,gilani,ghazalgi/,74

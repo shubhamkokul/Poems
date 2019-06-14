@@ -1,0 +1,9 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/vatvat/ghasv/,vatvat,ghasv/,211
+https://ganjoor.net/vatvat/tarv/,vatvat,tarv/,10
+https://ganjoor.net/vatvat/tarkv/,vatvat,tarkv/,5
+https://ganjoor.net/vatvat/moghv/,vatvat,moghv/,98
+https://ganjoor.net/vatvat/robv/,vatvat,robv/,43
+https://ganjoor.net/vatvat/ghazv/,vatvat,ghazv/,10
+https://ganjoor.net/vatvat/msmtmsn/,vatvat,msmtmsn/,0
+https://ganjoor.net/vatvat/vazn/,vatvat,vazn/,0

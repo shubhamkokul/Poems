@@ -1,0 +1,9 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/khojandi/ghazalkk/,khojandi,ghazalkk/,507
+https://ganjoor.net/khojandi/ghasidekk/,khojandi,ghasidekk/,4
+https://ganjoor.net/khojandi/moghattatkk/,khojandi,moghattatkk/,105
+https://ganjoor.net/khojandi/robkk/,khojandi,robkk/,44
+https://ganjoor.net/khojandi/mofkk/,khojandi,mofkk/,9
+https://ganjoor.net/khojandi/mokk/,khojandi,mokk/,9
+https://ganjoor.net/khojandi/maskk/,khojandi,maskk/,0
+https://ganjoor.net/khojandi/moskk/,khojandi,moskk/,0

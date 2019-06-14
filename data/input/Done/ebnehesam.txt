@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/ebnehesam/ghazalebn/,ebnehesam,ghazalebn/,178
+https://ganjoor.net/ebnehesam/robaeebn/,ebnehesam,robaeebn/,100
+https://ganjoor.net/ebnehesam/tarebn/,ebnehesam,tarebn/,2
+https://ganjoor.net/ebnehesam/hafez/,ebnehesam,hafez/,93

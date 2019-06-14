@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/kesayee/divank/,kesayee,divank/,55
+https://ganjoor.net/kesayee/abyat-kf/,kesayee,abyat-kf/,148
+https://ganjoor.net/kesayee/robaeek/,kesayee,robaeek/,3

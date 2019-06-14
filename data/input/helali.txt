@@ -1,0 +1,7 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/helali/ghazalh/,helali,ghazalh/,421
+https://ganjoor.net/helali/ghasideh/,helali,ghasideh/,4
+https://ganjoor.net/helali/gheteh/,helali,gheteh/,10
+https://ganjoor.net/helali/robaeeh/,helali,robaeeh/,35
+https://ganjoor.net/helali/mkhms/,helali,mkhms/,0
+https://ganjoor.net/helali/shahodarvish/,helali,shahodarvish/,53

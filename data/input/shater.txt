@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/shater/ghazalsha/,shater,ghazalsha/,75
+https://ganjoor.net/shater/parakandesha/,shater,parakandesha/,6
+https://ganjoor.net/shater/robsha/,shater,robsha/,16
+https://ganjoor.net/shater/mokhammas/,shater,mokhammas/,0

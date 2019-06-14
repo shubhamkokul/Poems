@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/bidel/ghazalbi/,bidel,ghazalbi/,2827
+https://ganjoor.net/bidel/tarjee-band/,bidel,tarjee-band/,0
+https://ganjoor.net/bidel/vazn/,bidel,vazn/,0

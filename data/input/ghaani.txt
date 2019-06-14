@@ -1,0 +1,10 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/ghaani/ghasidegh/,ghaani,ghasidegh/,349
+https://ganjoor.net/ghaani/ghazalgh/,ghaani,ghazalgh/,76
+https://ganjoor.net/ghaani/mosammatgh/,ghaani,mosammatgh/,6
+https://ganjoor.net/ghaani/tarkibgh/,ghaani,tarkibgh/,14
+https://ganjoor.net/ghaani/tarjee/,ghaani,tarjee/,0
+https://ganjoor.net/ghaani/masnavi/,ghaani,masnavi/,0
+https://ganjoor.net/ghaani/ghetegh/,ghaani,ghetegh/,150
+https://ganjoor.net/ghaani/robaeegh/,ghaani,robaeegh/,28
+https://ganjoor.net/ghaani/vazn/,ghaani,vazn/,0

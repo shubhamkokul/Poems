@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/babataher/2beytiha/,babataher,2beytiha/,366
+https://ganjoor.net/babataher/ghazal/,babataher,ghazal/,0
+https://ganjoor.net/babataher/ghaside/,babataher,ghaside/,0

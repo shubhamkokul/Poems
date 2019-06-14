@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/vahshi/divanv/,vahshi,divanv/,0
+https://ganjoor.net/vahshi/khold-barin/,vahshi,khold-barin/,9
+https://ganjoor.net/vahshi/nazer-manzoor/,vahshi,nazer-manzoor/,31
+https://ganjoor.net/vahshi/farhad-shirin/,vahshi,farhad-shirin/,44

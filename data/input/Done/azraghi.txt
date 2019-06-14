@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/azraghi/aghas/,azraghi,aghas/,66
+https://ganjoor.net/azraghi/amogh/,azraghi,amogh/,9
+https://ganjoor.net/azraghi/arob/,azraghi,arob/,108

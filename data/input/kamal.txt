@@ -1,0 +1,8 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/kamal/ghazalk/,kamal,ghazalk/,160
+https://ganjoor.net/kamal/robaeek-kamal/,kamal,robaeek-kamal/,867
+https://ganjoor.net/kamal/ghasidek/,kamal,ghasidek/,193
+https://ganjoor.net/kamal/ghetek/,kamal,ghetek/,350
+https://ganjoor.net/kamal/tarkibatk/,kamal,tarkibatk/,14
+https://ganjoor.net/kamal/molhaghatk/,kamal,molhaghatk/,31
+https://ganjoor.net/kamal/masnavik/,kamal,masnavik/,2

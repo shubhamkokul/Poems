@@ -1,0 +1,3 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/ferdousi/shahname/,ferdousi,shahname/,0
+https://ganjoor.net/ferdousi/hajvname/,ferdousi,hajvname/,1

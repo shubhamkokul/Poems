@@ -1,0 +1,10 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/rahi/ghazalha1/,rahi,ghazalha1/,24
+https://ganjoor.net/rahi/ghazalha2/,rahi,ghazalha2/,24
+https://ganjoor.net/rahi/ghazalha3/,rahi,ghazalha3/,22
+https://ganjoor.net/rahi/ghazalha4/,rahi,ghazalha4/,25
+https://ganjoor.net/rahi/xndghazal/,rahi,xndghazal/,5
+https://ganjoor.net/rahi/xndghete/,rahi,xndghete/,53
+https://ganjoor.net/rahi/robaeeha/,rahi,robaeeha/,19
+https://ganjoor.net/rahi/manzoomeha/,rahi,manzoomeha/,9
+https://ganjoor.net/rahi/abyat/,rahi,abyat/,16

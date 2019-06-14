@@ -1,0 +1,8 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/iqbal/asrar-khodi/,iqbal,asrar-khodi/,20
+https://ganjoor.net/iqbal/romooz-bikhodi/,iqbal,romooz-bikhodi/,32
+https://ganjoor.net/iqbal/payam-mashregh/,iqbal,payam-mashregh/,300
+https://ganjoor.net/iqbal/zaboor-ajam/,iqbal,zaboor-ajam/,142
+https://ganjoor.net/iqbal/javidname/,iqbal,javidname/,62
+https://ganjoor.net/iqbal/pas-che-bayad-kard/,iqbal,pas-che-bayad-kard/,24
+https://ganjoor.net/iqbal/armaghan-hejaz/,iqbal,armaghan-hejaz/,392

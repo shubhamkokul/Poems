@@ -1,0 +1,3 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/jami/7ourang/,jami,7ourang/,0
+https://ganjoor.net/jami/7ourang/kh7/,jami,7ourang/kh7/,0

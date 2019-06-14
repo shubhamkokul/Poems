@@ -1,0 +1,3 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/mohtasham/divan-moh/tarjeeha/sh1/,mohtasham,divan-moh/tarjeeha/sh1/,3
+https://ganjoor.net/mohtasham/divan-moh/,mohtasham,divan-moh/,0

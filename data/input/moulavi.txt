@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/moulavi/masnavi/,moulavi,masnavi/,0
+https://ganjoor.net/moulavi/shams/,moulavi,shams/,0
+https://ganjoor.net/moulavi/fhmfh/,moulavi,fhmfh/,71
+https://ganjoor.net/moulavi/7m/,moulavi,7m/,0

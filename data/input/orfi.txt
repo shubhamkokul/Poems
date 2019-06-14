@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/orfi/ghazalor/,orfi,ghazalor/,573
+https://ganjoor.net/orfi/ghasideha/,orfi,ghasideha/,1
+https://ganjoor.net/orfi/robaeeor/,orfi,robaeeor/,124

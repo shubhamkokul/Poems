@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/babaafzal/robba/,babaafzal,robba/,192
+https://ganjoor.net/babaafzal/ghazalba/,babaafzal,ghazalba/,7
+https://ganjoor.net/babaafzal/ghasba/,babaafzal,ghasba/,0

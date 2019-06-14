@@ -1,0 +1,2 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/nezami//5ganj/,nezami,/5ganj/,0

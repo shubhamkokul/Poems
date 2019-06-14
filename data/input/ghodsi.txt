@@ -1,0 +1,6 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/ghodsi/ghazalgm/,ghodsi,ghazalgm/,460
+https://ganjoor.net/ghodsi/mmgh/,ghodsi,mmgh/,49
+https://ganjoor.net/ghodsi/robghm/,ghodsi,robghm/,651
+https://ganjoor.net/ghodsi/masnavigm/,ghodsi,masnavigm/,34
+https://ganjoor.net/ghodsi/saaghinamegm/,ghodsi,saaghinamegm/,25

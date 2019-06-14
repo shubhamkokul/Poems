@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/sanaee/divans/,sanaee,divans/,0
+https://ganjoor.net/sanaee/hadighe/,sanaee,hadighe/,0
+https://ganjoor.net/sanaee/tariq/,sanaee,tariq/,77

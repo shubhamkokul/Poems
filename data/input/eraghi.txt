@@ -1,0 +1,3 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/eraghi/divane/,eraghi,divane/,0
+https://ganjoor.net/eraghi/oshaghname/,eraghi,oshaghname/,0

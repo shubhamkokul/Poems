@@ -1,0 +1,6 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/saadi/divan/,saadi,divan/,0
+https://ganjoor.net/saadi/boostan/,saadi,boostan/,0
+https://ganjoor.net/saadi/golestan/,saadi,golestan/,0
+https://ganjoor.net/saadi/mavaez/,saadi,mavaez/,0
+https://ganjoor.net/saadi/vazn/,saadi,vazn/,0

@@ -1,0 +1,3 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/naserkhosro/divann/,naserkhosro,divann/,0
+https://ganjoor.net/naserkhosro/safarname/,naserkhosro,safarname/,100

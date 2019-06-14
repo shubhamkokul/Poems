@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/seyf/divan-seyf/ghgh-seyf/sh12/,seyf,divan-seyf/ghgh-seyf/sh12/,4
+https://ganjoor.net/seyf/divan-seyf/,seyf,divan-seyf/,0
+https://ganjoor.net/seyf/vazn/,seyf,vazn/,0
+https://ganjoor.net/seyf/saadi/,seyf,saadi/,197

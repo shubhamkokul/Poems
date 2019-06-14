@@ -1,0 +1,6 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/salman/divanss/,salman,divanss/,0
+https://ganjoor.net/salman/feraghname/,salman,feraghname/,15
+https://ganjoor.net/salman/jamkhor/,salman,jamkhor/,112
+https://ganjoor.net/salman/vazn/,salman,vazn/,0
+https://ganjoor.net/salman/saadi/,salman,saadi/,406

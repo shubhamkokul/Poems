@@ -1,0 +1,10 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/razi/saghiname/,razi,saghiname/,0
+https://ganjoor.net/razi/sougandname/,razi,sougandname/,0
+https://ganjoor.net/razi/gouhar-e-eshgh/,razi,gouhar-e-eshgh/,0
+https://ganjoor.net/razi/ghazalar/,razi,ghazalar/,94
+https://ganjoor.net/razi/ghasidear/,razi,ghasidear/,6
+https://ganjoor.net/razi/robaeear/,razi,robaeear/,100
+https://ganjoor.net/razi/tarjee-band/,razi,tarjee-band/,0
+https://ganjoor.net/razi/ghatghaz/,razi,ghatghaz/,20
+https://ganjoor.net/razi/mofrar/,razi,mofrar/,9

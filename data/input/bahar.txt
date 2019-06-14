@@ -1,0 +1,15 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/bahar/ghasidebk/,bahar,ghasidebk/,276
+https://ganjoor.net/bahar/ghazalbk/,bahar,ghazalbk/,101
+https://ganjoor.net/bahar/ghetebk/,bahar,ghetebk/,190
+https://ganjoor.net/bahar/masnavibk/,bahar,masnavibk/,84
+https://ganjoor.net/bahar/mosammatbk/,bahar,mosammatbk/,22
+https://ganjoor.net/bahar/tarkibbk/,bahar,tarkibbk/,13
+https://ganjoor.net/bahar/tarjeebk/,bahar,tarjeebk/,9
+https://ganjoor.net/bahar/mostazadbk/,bahar,mostazadbk/,9
+https://ganjoor.net/bahar/4parebk/,bahar,4parebk/,6
+https://ganjoor.net/bahar/robaeebk/,bahar,robaeebk/,71
+https://ganjoor.net/bahar/manzoomebk/,bahar,manzoomebk/,0
+https://ganjoor.net/bahar/mahalibk/,bahar,mahalibk/,9
+https://ganjoor.net/bahar/tasnifbk/,bahar,tasnifbk/,18
+https://ganjoor.net/bahar/divanb/,bahar,divanb/,0

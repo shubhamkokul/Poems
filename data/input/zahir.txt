@@ -1,0 +1,8 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/zahir/ghasidez/,zahir,ghasidez/,81
+https://ganjoor.net/zahir/ghetez/,zahir,ghetez/,107
+https://ganjoor.net/zahir/tarkibz/,zahir,tarkibz/,4
+https://ganjoor.net/zahir/molammaz/,zahir,molammaz/,2
+https://ganjoor.net/zahir/ghazalz-zahir/,zahir,ghazalz-zahir/,10
+https://ganjoor.net/zahir/masnaviz/,zahir,masnaviz/,2
+https://ganjoor.net/zahir/robaeez-zahir/,zahir,robaeez-zahir/,100

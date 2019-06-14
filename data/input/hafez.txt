@@ -1,0 +1,13 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/hafez/ghazal/,hafez,ghazal/,495
+https://ganjoor.net/hafez/masnavi/,hafez,masnavi/,0
+https://ganjoor.net/hafez/saghiname/,hafez,saghiname/,0
+https://ganjoor.net/hafez/ghete/,hafez,ghete/,34
+https://ganjoor.net/hafez/robaee2/,hafez,robaee2/,42
+https://ganjoor.net/hafez/ghaside/,hafez,ghaside/,3
+https://ganjoor.net/hafez/montasab/,hafez,montasab/,23
+https://ganjoor.net/hafez/vazn/,hafez,vazn/,0
+https://ganjoor.net/hafez/saadi/,hafez,saadi/,280
+https://ganjoor.net/hafez/salman/,hafez,salman/,194
+https://ganjoor.net/hafez/khajoo/,hafez,khajoo/,175
+https://ganjoor.net/hafez/ouhadi/,hafez,ouhadi/,140

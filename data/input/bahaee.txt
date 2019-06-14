@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/bahaee/divan-baha/,bahaee,divan-baha/,0
+https://ganjoor.net/bahaee/nan-halva/,bahaee,nan-halva/,24
+https://ganjoor.net/bahaee/shir-shekar/,bahaee,shir-shekar/,7
+https://ganjoor.net/bahaee/nan-paneer/,bahaee,nan-paneer/,15

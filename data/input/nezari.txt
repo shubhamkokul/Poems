@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/nezari/ghazalnz/,nezari,ghazalnz/,1408
+https://ganjoor.net/nezari/dasturname/,nezari,dasturname/,48
+https://ganjoor.net/nezari/tarjiatnz/,nezari,tarjiatnz/,1
+https://ganjoor.net/nezari/robnez/,nezari,robnez/,114

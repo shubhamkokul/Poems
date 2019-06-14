@@ -1,0 +1,4 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/khajoo/ghazal-khajoo/,khajoo,ghazal-khajoo/,932
+https://ganjoor.net/khajoo/vazn/,khajoo,vazn/,0
+https://ganjoor.net/khajoo/saadi/,khajoo,saadi/,390

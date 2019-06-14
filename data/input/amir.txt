@@ -1,0 +1,10 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/amir/robam/sh174/,amir,robam/sh174/,3
+https://ganjoor.net/amir/robam/sh98/,amir,robam/sh98/,4
+https://ganjoor.net/amir/ghasa/,amir,ghasa/,466
+https://ganjoor.net/amir/taram/,amir,taram/,3
+https://ganjoor.net/amir/tarjam/,amir,tarjam/,3
+https://ganjoor.net/amir/mosammat/,amir,mosammat/,0
+https://ganjoor.net/amir/ghazam/,amir,ghazam/,61
+https://ganjoor.net/amir/ghatam/,amir,ghatam/,34
+https://ganjoor.net/amir/robam/,amir,robam/,174

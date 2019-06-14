@@ -1,0 +1,5 @@
+poem_link,arabic_poet,subsection,poems
+https://ganjoor.net/roodaki/baghimande/,roodaki,baghimande/,129
+https://ganjoor.net/roodaki/robaeer/,roodaki,robaeer/,38
+https://ganjoor.net/roodaki/masnaviha/,roodaki,masnaviha/,0
+https://ganjoor.net/roodaki/parakande/,roodaki,parakande/,177
